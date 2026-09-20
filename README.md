@@ -12,6 +12,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/universitea-photorealistic-variation.png" alt="UniversiTEA logo variation with a photorealistic tea leaf, painted lettering, and a warm ochre plaster block" width="100%" />
+</p>
+
 ## ☕ Currently Building: UniversiTEA
 
 **UniversiTEA** is a longer-term experiment around campus conversations, communities, anonymity, social dynamics, and the wonderfully questionable things people say when you give them a cup of tea and a pseudonym.
